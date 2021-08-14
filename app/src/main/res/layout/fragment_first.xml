@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:layout_marginBottom="30dp"
+        android:text="      Sobat Traveller ,yang pertama ada dari Kota Bandung yaitu Braga.Braga City Walk adalah sebuah terobosan baru untuk memperkenalkan Jalan Braga kekinian yang semakin asik dengan spot-spot foto kekinian.Dengan panjang kurang lebih 700 meter.Braga zaman sekarang masih menjunjung tinggi sebagai tempat mode dan fashion terbaik di negeri ini.Koleksi-koleksinya ini juga tidak kalah dengan zaman dahulu.Mereka masih mempertahankan kualitas fashion terbaik di Indonesia dan juga di dunia.Bangunan-bangunan modern berdiri dengan begitu megah."/>
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="450dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:backgroundTint="#FFFFFF"
+        android:scaleType="centerCrop"
+        android:src="@drawable/braga"/>
+
+</FrameLayout>

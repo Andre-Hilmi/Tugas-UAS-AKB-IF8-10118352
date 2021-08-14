@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:layout_marginBottom="50dp"
+        android:text="      Nah yang kedua, ada dari Bandung Barat sobat Travellers yaitu Sungai Cikahuripan. Sungai ini sangat cocok untuk kalian yang ingin memanjakan mata.Namanya Cikahuripan, bentuknya mirip Green Canyon. Cikahuripan yang mempunyai arti air yang membawa kehidupan. Sungai ini anakan dari sungai Citarum Purba yang terletak di kecamatan Saguling, Kabupaten Bandung Barat." />
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="440dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:backgroundTint="#FFFF"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sungai"/>
+
+</FrameLayout>

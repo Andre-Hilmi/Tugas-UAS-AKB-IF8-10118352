@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050958176847",
+    "project_id": "travellingyu-d16c0",
+    "storage_bucket": "travellingyu-d16c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050958176847:android:d61b25d9c5c152b49b803a",
+        "android_client_info": {
+          "package_name": "com.example.travellingyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050958176847-2lq0fso5osiv8s650j6gc2vho5h4u5v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Sub_MoZdBLu7RkyogT-Drs8s2ib_JSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050958176847-2lq0fso5osiv8s650j6gc2vho5h4u5v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
